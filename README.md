@@ -1,9 +1,9 @@
 # SMART_HOME_APPLICATION
-Smart-Home-Application using Bluetooth module.
+Smart-Home-Application using Bluetooth module (HC-05).
 
-To control doors, lights, fans, air-conditioners, household appliance, sound system.
+To control doors, lights, fans, air-conditioners, household appliance and sound system
 
-By using AVR Atmega32, with those peripherals DIO, ADC, TIMERS, USART, other component as a prototype LED, DC MOTOR, SERVO MOTOR, LDR, LM35, BUZZER.
+By using AVR Atmega32, with those peripherals DIO, ADC, TIMERS, USART, also other component as a prototype LED, DC MOTOR, SERVO MOTOR, LDR, LM35 and BUZZER.
 
 ## Video 
 https://www.linkedin.com/feed/update/urn:li:activity:6722540412457795584/
